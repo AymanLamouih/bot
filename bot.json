@@ -1,20 +1,11 @@
 {
-    "nom":"Delta Logo Varsity Jacket",
-    "couleur":"Black",
-    "type":"jackets",
-    "image": {"0" : "//assets.supremenewyork.com/176124/ma/sCg3kI5h8F8.jpg" , 
-              "1" :"//assets.supremenewyork.com/178322/ma/Xh7W4047uW4.jpg" ,
-              "2" :"//assets.supremenewyork.com/179524/ma/SpuWLn39cUA.jpg" ,
-              "3" :"//assets.supremenewyork.com/176247/ma/uIqvQXAGXEo.jpg",
-              "4" :"//assets.supremenewyork.com/176252/ma/kcDUdnH8O-o.jpg",
-              "5" :"//assets.supremenewyork.com/176449/ma/YmEL8Qey8j0.jpg",
-              "6" :"//assets.supremenewyork.com/178420/ma/sY3rle5VurQ.jpg",
-              "7" :"//assets.supremenewyork.com/176819/ma/oaufMLbTdiI.jpg",
-              "8" :"//assets.supremenewyork.com/176823/ma/w1KlyIwHN3Q.jpg",
-              "9" :"//assets.supremenewyork.com/178419/ma/HFhKmSnrU_k.jpg",
-              "10" :"//assets.supremenewyork.com/179546/vi/7o2ANtP1ol4.jpg",
-              "11" :"//assets.supremenewyork.com/178737/ma/LFjk5t0dPAY.jpg",
-              "12" :"//assets.supremenewyork.com/179552/ma/mKVxG7bMWX8.jpg"
-             
-             }
+    
+  "article" : { 
+                    "nom":  "Delta Logo Varsity Jacket",    
+                    "couleur":"Black",
+                    "type":"jackets",
+                    "image": {"0" : "//assets.supremenewyork.com/176124/ma/sCg3kI5h8F8.jpg" , 
+                              "1" : "//assets.supremenewyork.com/178322/ma/Xh7W4047uW4.jpg"      
+                             }
+                }
 }
